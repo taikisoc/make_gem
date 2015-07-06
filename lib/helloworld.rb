@@ -1,5 +1,8 @@
-require "helloworld/version"
+require 'helloworld/version'
+
 
 module Helloworld
-  # Your code goes here...
+  def self.speak
+    'helloworld'
+  end
 end
