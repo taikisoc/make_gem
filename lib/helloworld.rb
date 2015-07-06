@@ -2,6 +2,6 @@ require 'helloworld/version'
 
 module Helloworld
   def self.speak
-    'helloworld'
+    'Hello World'
   end
 end
