@@ -1,5 +1,7 @@
 require "helloworld/version"
 
 module Helloworld
-  # Your code goes here...
+  def self.greet
+    'Hello World!'
+  end
 end
